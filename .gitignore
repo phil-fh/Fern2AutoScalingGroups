@@ -1,0 +1,7 @@
+/.terraform/
+/.idea/
+/Fern2AutoScalingGroups.iml
+/.terraform.lock.hcl
+/terraform.tfstate
+/terraform.tfstate.backup
+
